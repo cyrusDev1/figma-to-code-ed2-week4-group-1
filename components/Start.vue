@@ -1,5 +1,5 @@
 <template>
-  <div class="bg py-24 space-y-12">
+  <div class="bg py-24 space-y-12" id="find-a-doctor">
     <div class="lg:w-1/2 mx-auto">
       <h1 class="text-4xl lg:text-6xl text-white text-center">
         Start Your Health Journey Here

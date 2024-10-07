@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-4 lg:mx-16 my-20 space-y-6 lg:space-y-10">
+  <div class="mx-4 lg:mx-16 my-20 space-y-6 lg:space-y-10" id="services">
     <div>
       <h2 class="text-2xl lg:text-5xl font-medium font-roboto">
         Choose Doctor's <span class="text-blue italic">Expertise</span>

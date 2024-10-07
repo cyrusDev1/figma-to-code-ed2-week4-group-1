@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-4 lg:mx-16 my-20 grid lg:grid-cols-2 gap-6 lg:gap-10">
+  <div class="mx-4 lg:mx-16 my-20 grid lg:grid-cols-2 gap-6 lg:gap-10" id="about-us">
     <Bande class="lg:hidden"></Bande>
 
     <div class="h-full flex">
